@@ -1,0 +1,1 @@
+Sayilar.txt dosyasını doc klasörüne atınız.
